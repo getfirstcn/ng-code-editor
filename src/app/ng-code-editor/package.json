@@ -1,0 +1,25 @@
+{
+  "name": "ng-code-editor",
+  "version": "1.0.0",
+  "description": "angular editor of monaco",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getfirstcn/ng-code-editor.git"
+  },
+  "keywords": [
+    "monaco",
+    "angular",
+    "editor",
+    "typescript"
+  ],
+  "author": "xiluo <xiluo> (http://getfirst.cn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getfirstcn/ng-code-editor/issues"
+  },
+  "homepage": "https://github.com/getfirstcn/ng-code-editor#readme"
+}
